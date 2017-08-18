@@ -1,7 +1,7 @@
 <project default="all">
   <!-- set global properties for this build -->
   <property name="wls.username" value="weblogic" />
-  <property name="wls.password" value="welcome11111111" />
+  <property name="wls.password" value="welcome1" />
   <property name="wls.hostname" value="localhost" />
   <property name="wls.port" value="7001" />
   <property name="wls.server.name" value="AdminServer" />
