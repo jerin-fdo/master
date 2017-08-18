@@ -14,7 +14,7 @@
   <property name="weblogic.jar.classpath" value="C:/Oracle/Middleware/wlserver/server/lib"/>
   
  
-  <path id="client.class.path">
+  <path id="client.class.path">  
     <pathelement path="${clientclass-dir}"/>
     <pathelement path="${java.class.path}"/>
   </path>
